@@ -1,6 +1,6 @@
 # Steve Player
 
-Q某乐Steve Player 桌面版。
+Q某乐Steve Player（液态玻璃效果） 桌面版。
 
 ## 下载
 
