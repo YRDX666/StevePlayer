@@ -1,6 +1,6 @@
 # Steve Player
 
-Steve Player 桌面版（Windows 安装程序发布仓库）。
+Steve Player （液态玻璃效果）桌面版。
 
 ## 下载
 
