@@ -1,6 +1,6 @@
 # Steve Player
 
-Steve Player 桌面版（Windows 安装程序发布仓库）。
+Q某乐Steve Player 桌面版。
 
 ## 下载
 
